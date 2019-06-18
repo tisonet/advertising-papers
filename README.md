@@ -1,4 +1,4 @@
-# advertising-papers
+# Advertising papers
 
 ## Bidding
 [2018 - Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
