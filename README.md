@@ -31,4 +31,7 @@
 
 [Social Networks: Finding Highly Similar Users and Their Inherent Patterns](https://pdfs.semanticscholar.org/d1c9/8fa2a273d24e0ea055d7d93ab9e36a59302e.pdf)
 
+## Context
+[2008 - Contextual Advertising by Combining Relevance with Click Feedback](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.6137&rep=rep1&type=pdf)
+
 
