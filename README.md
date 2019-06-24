@@ -34,4 +34,7 @@
 ## Context
 [2008 - Contextual Advertising by Combining Relevance with Click Feedback](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.6137&rep=rep1&type=pdf)
 
+## Scaling
+[2015 - From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/turn-throatling.pdf)
+
 
