@@ -17,3 +17,16 @@
 
 ## User profile
 [2007 - Demographic Prediction Based on User’s Browsing Behavior](https://www2007.org/papers/paper686.pdf)
+
+## Look A Like
+[Social Networks: Finding Highly Similar Users and Their Inherent Patterns](https://pdfs.semanticscholar.org/d1c9/8fa2a273d24e0ea055d7d93ab9e36a59302e.pdf)
+
+[2018 - Adaptive look-alike targeting in social networks advertising](https://www.sciencedirect.com/science/article/pii/S1877050918315692)
+
+[2016 - Audience Expansion for Online Social Network Advertising](https://www.kdd.org/kdd2016/papers/files/adf0483-liuA.pdf)
+
+[2016 - A Sub-linear, Massive-scale Look-alike Audience Extension System](http://proceedings.mlr.press/v53/ma16.pdf)
+
+[2015 - Effective Audience Extension in Online Advertising](https://dl.acm.org/citation.cfm?id=2788603)
+
+
