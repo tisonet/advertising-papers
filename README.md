@@ -3,6 +3,8 @@
 ## Bidding
 [2018 - Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
 
+[2018 - Optimal Bidding, Allocation and Budget Spending for a Demand Side Platform Under Many Auction Types](https://arxiv.org/pdf/1805.11645.pdf)
+
 [2012 - Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lin-bid.pdf)
 
 [2011 - Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-perf-bid.pdf)
