@@ -37,4 +37,5 @@
 ## Scaling
 [2015 - From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/turn-throatling.pdf)
 
-
+## Retargeting
+[2013 - When Does Retargeting Work? Information Specificity in Online Advertising](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.1526&rep=rep1&type=pdf)
