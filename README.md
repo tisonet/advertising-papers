@@ -7,7 +7,7 @@
 <details>
   <summary>Czech notes</summary>
   
-  Modifikace zakladni ceny bidu dle predikce pravdepodobnosti konverze dle inventory. Ma cenu bidovat s dvakrat vetsi cenou pro uzivatel, kteri maji dvakrat vetsi pravdepodobnost konverze. Inventory, kontext zobrazeni stranky ma vliv na konverzi. Typ cteni (clanek o SQL nebo bulvar), viditelnost reklam, atd. meni pravdepodobnost konverze. Zkouseli vice bidovacich strategii, 1 - pomerne menit bid price dle predikovane CVR, 2 - agresivni pristup,  zarezavat uzivatele s malou pravdepodobnosti konverze (<0.8), bidovat dvakrat vice pro dobe uzivatele CVR>1.2 a 3 - baseline, bidovat konstani cenu. Druha stategie mela nejvetsi CVR, ale take vetsi CPA (mensi marze pro DSP). Vhodne pro nove klienty, pro porovnani vykonu s jinymi systemy.       
+  Modifikace zakladni ceny bidu dle predikce pravdepodobnosti konverze dle inventory. Ma cenu bidovat s dvakrat vetsi cenou pro uzivatel, kteri maji dvakrat vetsi pravdepodobnost konverze. Inventory, kontext zobrazeni stranky ma vliv na konverzi. Typ cteni (clanek o SQL nebo bulvar), viditelnost reklam, atd. meni pravdepodobnost konverze. Zkouseli vice bidovacich strategii, 1 - pomerne menit bid price dle predikovane CVR, 2 - agresivni pristup,  zarezavat uzivatele s malou pravdepodobnosti konverze (<0.8), bidovat dvakrat vice pro dobe uzivatele CVR>1.2 a 3 - baseline, bidovat konstani cenu. Druha stategie mela nejvetsi CVR, ale take vetsi CPA (mensi marze pro DSP). Vhodne pro nove klienty, kteri porovnavaji vykon s jinymi systemy.       
   </details>
 
 
