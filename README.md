@@ -46,7 +46,9 @@
 ## Retargeting
 [2013 - When Does Retargeting Work? Information Specificity in Online Advertising](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.1526&rep=rep1&type=pdf)
 
-## Conversion rate prediction
+## Conversion/Click rate prediction
+[2014 - Practical Lessons from Predicting Clicks on Ads at Facebook](https://quinonero.net/Publications/predicting-clicks-facebook.pdf)
+
 [2012 - Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf)
 <details>
   <summary>Czech notes</summary>
