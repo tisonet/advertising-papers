@@ -49,6 +49,8 @@
 ## Conversion/Click rate prediction
 [2014 - Practical Lessons from Predicting Clicks on Ads at Facebook](https://quinonero.net/Publications/predicting-clicks-facebook.pdf)
 
+[2013 - Ad Click Prediction: a View from the Trenches (Google)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
+
 [2012 - Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf)
 <details>
   <summary>Czech notes</summary>
