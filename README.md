@@ -47,6 +47,8 @@
 [2013 - When Does Retargeting Work? Information Specificity in Online Advertising](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.1526&rep=rep1&type=pdf)
 
 ## Conversion/Click rate prediction
+[2017 - Advertisement Click-Through Rate Prediction Based on the Weighted-ELM and Adaboost Algorithm](https://www.researchgate.net/publication/320986634_Advertisement_Click-Through_Rate_Prediction_Based_on_the_Weighted-ELM_and_Adaboost_Algorithm)
+
 [2014 - Practical Lessons from Predicting Clicks on Ads at Facebook](https://quinonero.net/Publications/predicting-clicks-facebook.pdf)
 
 [2013 - Ad Click Prediction: a View from the Trenches (Google)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
