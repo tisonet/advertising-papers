@@ -33,7 +33,7 @@
 [2015 - Evaluating and Optimizing Online Advertising Forget the click, but there are good proxies](https://core.ac.uk/download/pdf/43024035.pdf)
 
 ## User profile
-[2016 - Improving Advertisement Recommendation by Enriching User Browser Cookie Attributes](Improving Advertisement Recommendation by Enriching User Browser Cookie Attribute)
+[2016 - Improving Advertisement Recommendation by Enriching User Browser Cookie Attributes](https://dl.acm.org/citation.cfm?id=2983374&dl=ACM&coll=DL)
 
 [2011 - Scalable Distributed Inference of Dynamic User Interests for Behavioral Targeting](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.296.3731&rep=rep1&type=pdf)
 
