@@ -1,11 +1,23 @@
 # Advertising papers
 
-## Bidding
+## Bidding,  budget, delivery
 [2018 - Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
+
+[2018 - Audience Size Forecasting](http://delivery.acm.org/10.1145/3220000/3219893/p744-shi.pdf?ip=194.228.13.109&id=3219893&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1562700116_324a5d17e38a06a6d1fe2d885ff5a19b)
 
 [2018 - Optimal Bidding, Allocation and Budget Spending for a Demand Side Platform Under Many Auction Types](https://arxiv.org/pdf/1805.11645.pdf)
 
 [2017 - Attribution Modeling Increases Efficiency of Bidding in Display Advertising](https://arxiv.org/pdf/1707.06409.pdf)
+
+[2017 - Profit Maximization for Online Advertising Demand-Side Platforms](https://arxiv.org/pdf/1706.01614.pdf)
+
+[2015 - Smart Pacing for Effective Online Ad Campaign Optimization](https://arxiv.org/pdf/1506.05851.pdf)
+
+[2013 - Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://arxiv.org/abs/1305.3011)
+<details>
+  <summary>Czech notes</summary>
+  Maximalizace dosazeni daneho cile (CTR, CR, eCPC, eCPA) pri dodrzeni rozlozeni budgetu v ramci celeho behu kampane. Budget lze rozkladat na casove sloty dle cile, napr. utracet nejvice v hodinach kdy se nejvice nakupuje na shopu, ci klika. Metoda stavi na metrice pancing rate, tedy urceni idealniho poctu bidu ze vsech adrequestu, odpovidajicich cileni, abychom odtaceli spravne budget.  Dale hledame hladinu predikovane CTR, CR kdy ma smysl jeste bidovat a s jakou cenou.
+  </details>
 
 [2012 - Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lin-bid.pdf)
 <details>
@@ -16,12 +28,9 @@
 
 [2011 - Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-perf-bid.pdf)
 
-## Budget, delivery
-[2018 - Audience Size Forecasting](http://delivery.acm.org/10.1145/3220000/3219893/p744-shi.pdf?ip=194.228.13.109&id=3219893&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1562700116_324a5d17e38a06a6d1fe2d885ff5a19b)
 
-[2017 - Profit Maximization for Online Advertising Demand-Side Platforms](https://arxiv.org/pdf/1706.01614.pdf)
 
-[2015 - Smart Pacing for Effective Online Ad Campaign Optimization](https://arxiv.org/pdf/1506.05851.pdf)
+
 
 
 ## Frequency cap
