@@ -18,6 +18,11 @@
 ## Budget pacing
 [2015 - Smart Pacing for Effective Online Ad Campaign Optimization](https://arxiv.org/pdf/1506.05851.pdf)
 
+## Frequency cap
+[2015 - Research on the Frequency Capping Issue in RTB Advertising: A Computational Experiment Approach](https://www.researchgate.net/publication/333310382_Research_on_the_Frequency_Capping_Issue_in_RTB_Advertising_A_Computational_Experiment_Approach)
+
+[2014 - Frequency Capping in Online Advertising](https://theory.epfl.ch/moranfe/Publications/Journals/Journal%20of%20Scheduling%202014.pdf)
+
 ## Performance metrics
 [2015 - Evaluating and Optimizing Online Advertising Forget the click, but there are good proxies](https://core.ac.uk/download/pdf/43024035.pdf)
 
