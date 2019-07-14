@@ -12,6 +12,10 @@
 [2017 - Profit Maximization for Online Advertising Demand-Side Platforms](https://arxiv.org/pdf/1706.01614.pdf)
 
 [2015 - Smart Pacing for Effective Online Ad Campaign Optimization](https://arxiv.org/pdf/1506.05851.pdf)
+<details>
+  <summary>Czech notes</summary>
+  Ad requesty jsou rozdeleny do vice skupin, dle predikovaneho vykonu (CTR, CR). Kazda skupina ma vypocten pacing rate. Algoritmus se snazi bidovat na skupiny s nejvyse predikovanou hodnotou pokud stiha odtacet budget. Adaptivne upravuje pacing rate dle toho jak odtaci. Kdyz nestiha odtacet, zvysuje pacing rate i pro skupiny s mensim vykonem, napr. s nizsim CTR prediction. 
+  </details>
 
 [2013 - Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://arxiv.org/abs/1305.3011)
 <details>
