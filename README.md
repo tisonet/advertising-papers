@@ -93,6 +93,11 @@
 [2013 - Ad Click Prediction: a View from the Trenches (Google)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
 
 [2012 - Multimedia Features for Click Prediction of New Ads in Display Advertising](https://maths-people.anu.edu.au/~johnm/courses/mathdm/talks/dimitri-clickadvert.pdf)
+<details>
+  <summary>Czech notes</summary>
+  
+ Resi cold start CTR predictoru pro nove ady. Extrahuje vlastnosti z adu (img, flash) jako jsou barvy, svetlost, stupne sede, kontrast, barevnost, texturea, text pres OCR, objekty na obrazku, jejich mnozstvi a dle techto vlastnosti predikuji CTR. 
+</details>
 
 [2012 - The Impact of Visual Appearance on User Response in Online Display Advertising](https://arxiv.org/pdf/1202.2158.pdf)
 
@@ -107,6 +112,6 @@
 
 [2010 - Personalized Click Prediction in Sponsored Search](http://www.wsdm-conference.org/2010/proceedings/docs/p351.pdf)
 
-[2010 - Predicting the Click-Through Rate for Rare/New Ads (https://pdfs.semanticscholar.org/acd0/25300131a53447ebb539d28ba8baaa62a520.pdf)
+[2010 - Predicting the Click-Through Rate for Rare/New Ads](https://pdfs.semanticscholar.org/acd0/25300131a53447ebb539d28ba8baaa62a520.pdf)
 
 [2007 - Predicting Clicks: Estimating the Click-Through Rate for New Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/predictingclicks.pdf)
