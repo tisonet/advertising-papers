@@ -115,3 +115,8 @@
 [2010 - Predicting the Click-Through Rate for Rare/New Ads](https://pdfs.semanticscholar.org/acd0/25300131a53447ebb539d28ba8baaa62a520.pdf)
 
 [2007 - Predicting Clicks: Estimating the Click-Through Rate for New Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/predictingclicks.pdf)
+<details>
+  <summary>Czech notes</summary>
+  
+ Predikce CTR dle klicovych slov (termu) v sponsored search advertisingu. Snazi se najit kampane cilene na stejne termy, pripadne na podmnozinu, ci nadmnozinu.    
+</details>
