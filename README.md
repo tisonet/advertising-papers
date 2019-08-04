@@ -120,3 +120,12 @@
   
  Predikce CTR dle klicovych slov (termu) v sponsored search advertisingu. Snazi se najit kampane cilene na stejne termy, pripadne na podmnozinu, ci nadmnozinu.    
 </details>
+
+## Viewbility
+
+[2016 - Webpage Depth-level Dwell Time Prediction](https://web.njit.edu/~borcea/papers/acm-cikm16.pdf)
+<details>
+  <summary>Czech notes</summary>
+  
+ Pomoci Factorization Machine modelu predikuji jak hluboko na strance uzivatel zascroluje a jakou dobu tam vydrzi. Model dobre pracuje s ridkymi daty a umoznuje zpojit kontextualni data. Zkousi ruzne kontextualni data (viewport, geo, delku dokumentu dle poctu slov, ..) a jako velmy silnou feature se ukazal hlavne viewport. Model porovnavaji s regreasi a FM vychazi lepe. Pro vyhodnoceni pouzivaji Root-Mena-Square Deviation a agresivnejsi Logistic Loss.
+</details>
