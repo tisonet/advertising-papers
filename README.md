@@ -130,6 +130,13 @@
  Pomoci Factorization Machine modelu predikuji jak hluboko na strance uzivatel zascroluje a jakou dobu tam vydrzi. Model dobre pracuje s ridkymi daty a umoznuje zpojit kontextualni data. Zkousi ruzne kontextualni data (viewport, geo, delku dokumentu dle poctu slov, ..) a jako velmy silnou feature se ukazal hlavne viewport. Model porovnavaji s regreasi a FM vychazi lepe. Pro vyhodnoceni pouzivaji Root-Mena-Square Deviation a agresivnejsi Logistic Loss.
 </details>
 
+[2015 - Viewability Prediction for Online Display Ads](https://web.njit.edu/~ychen/acm-cikm15.pdf)
+<details>
+  <summary>Czech notes</summary>
+  
+ Pomoci Probabilistic Latent Class Modelu predikuji jak hluboko n stance uzivatel zascruluje (bez casu). Porovnavaji s SVD, Logistic Regresi. Testuji ruzne featury (device type, geo, day of week, hour of day, view rate per user). Vyhodnocuji pomoci Root-Mean-Square-Deviance a F1 score.
+</details>
+
 ## Anomaly Detection
 
 [2016 - Finding Needle in a Million Metrics: Anomaly Detection in a Large-scale Computational Advertising Platform](https://arxiv.org/pdf/1602.07057.pdf)
