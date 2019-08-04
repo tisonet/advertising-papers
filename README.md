@@ -129,3 +129,7 @@
   
  Pomoci Factorization Machine modelu predikuji jak hluboko na strance uzivatel zascroluje a jakou dobu tam vydrzi. Model dobre pracuje s ridkymi daty a umoznuje zpojit kontextualni data. Zkousi ruzne kontextualni data (viewport, geo, delku dokumentu dle poctu slov, ..) a jako velmy silnou feature se ukazal hlavne viewport. Model porovnavaji s regreasi a FM vychazi lepe. Pro vyhodnoceni pouzivaji Root-Mena-Square Deviation a agresivnejsi Logistic Loss.
 </details>
+
+## Anomaly Detection
+
+[2016 - Finding Needle in a Million Metrics: Anomaly Detection in a Large-scale Computational Advertising Platform](https://arxiv.org/pdf/1602.07057.pdf)
